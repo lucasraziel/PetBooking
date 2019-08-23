@@ -1,5 +1,5 @@
 const colors = {
-  background: '#1F0808',
+  background: '#fff',
   clear: 'rgba(0,0,0,0)',
   facebook: '#3b5998',
   transparent: 'rgba(0,0,0,0)',
@@ -22,6 +22,6 @@ const colors = {
   border: '#483F53',
   banner: '#5F3E63',
   text: '#E0D7E5'
-}
+};
 
-export default colors
+export default colors;
